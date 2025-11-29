@@ -1,51 +1,31 @@
 # Hey there! 👋 I'm Georg Steyn
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/GeorgSteyn?label=Follow&style=social)](https://github.com/GeorgSteyn)
-
-</div>
-
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves exploring new technologies and building interesting projects. From shell scripts to desktop applications, I enjoy working across different platforms and tools.
+I'm an experienced software engineer with skills in mobile and web-based development using ReactJS and React Native, backend development with Node.js and PostgreSQL, and cloud expertise with Google Cloud and Azure DevOps. I'm also a self-hosting fan and Linux lover.
 
-- 🔭 I'm currently exploring new technologies and side projects
-- 🌱 Always learning and experimenting with new tools
+- 🔭 Currently working on exciting web and mobile projects
+- 🌱 Always learning and experimenting with new technologies
 - 💡 Interested in automation, scripting, and cross-platform development
-- ⚡ Fun fact: I've experimented with coding on mobile devices using Samsung DeX!
+- 🖥️ Desktop app development via web tech
+- 🎮 Game development is my side hobby – the cool tech in the space excites me more than building a game!
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Georg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgSteyn&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/GeorgSteyn)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgSteyn&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/GeorgSteyn)
-
-</div>
-
-## 🌟 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📱 [coding-on-dex-test](https://github.com/GeorgSteyn/coding-on-dex-test) | Testing coding on Samsung Galaxy with Samsung DeX |
-| 📑 [bookmark_app_electron](https://github.com/GeorgSteyn/bookmark_app_electron) | A bookmark application built with Electron |
-| 🔧 [Scripts](https://github.com/GeorgSteyn/Scripts) | Collection of useful shell scripts |
 
 ## 📫 Let's Connect!
 
